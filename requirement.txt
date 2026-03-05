@@ -1,0 +1,8 @@
+pandas
+seaborn
+matplotlib
+pantab
+tableauhyperapi
+pygwalker
+kagglehub
+git+https://github.com/tableau/hyper-api-samples#subdirectory=Community-Supported/hyper-jupyter-kernel
