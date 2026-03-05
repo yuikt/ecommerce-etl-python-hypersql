@@ -18,7 +18,6 @@ The project processes e-commerce sales data to uncover profit trends. The core l
 To run this notebook, you will need:
 - Python 3.x
 - The libraries listed in `requirements.txt`
-- (Optional) Tableau Desktop or Tableau Public to open the generated `.hyper` file.
 
 ## Instructions
 1. Install prerequisites: `pip install -r requirements.txt`.
